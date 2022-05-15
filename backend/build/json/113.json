@@ -1,0 +1,47 @@
+{
+  "name": "Celeste #113",
+  "description": "When good is being hunted its response will rain hell. You don't see what they feel. They have too much patience.",
+  "image": "ipfs:///113.png",
+  "dna": "3a5f11df7a96df2951e9c06d9172c0da53bd89dd",
+  "edition": 113,
+  "date": 1652236660355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background B"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Tatoo",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earings",
+      "value": "Earings A"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair D"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Glasses A"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clothes F"
+    },
+    {
+      "trait_type": "Patch",
+      "value": "Patch A"
+    },
+    {
+      "trait_type": "Rifles",
+      "value": "Rifle A"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
